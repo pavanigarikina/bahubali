@@ -1,4 +1,2 @@
-a hand will be shown in which a baby is being carried in the river.
-srilakshmi
-we can do from terminal
-using vim editor
+hello world
+
